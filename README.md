@@ -1,2 +1,2 @@
 # Python_Knowledge
-a
+a python tutorial for who have learnt Java before
